@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<domain majorVersion="4" minorVersion="0">
+    <attributes>
+        <attribute class="java.lang.String" key="name">Education</attribute>
+        <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+        <attribute class="java.lang.Boolean" key="hidden">false</attribute>
+    </attributes>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">c78af70d-a6be-4809-944a-d6e2b6b8a711</attribute>
+            <attribute class="java.lang.String" key="name">1.3. Responsibility (Self)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.6000000238418579" green="0.6000000238418579" red="1.0"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">585d37f6-55cb-4c87-887f-7351eaa0c54e</attribute>
+            <attribute class="java.lang.String" key="name">1.4. Self-awareness (Self)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.6000000238418579" green="0.800000011920929" red="1.0"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">06ba9b23-1d3d-4936-9d0c-f84d9debcf1b</attribute>
+            <attribute class="java.lang.String" key="name">1.5. Emotional Control (Self)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.0" green="0.0" red="1.0"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">ac193f0f-b97c-4b91-a017-bbe1db11bc1f</attribute>
+            <attribute class="java.lang.String" key="name">1.6. Delay Gratification (Self)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.800000011920929" green="0.800000011920929" red="0.800000011920929"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">c57012bf-ac0d-4f8d-91d2-b3bc9ded9541</attribute>
+            <attribute class="java.lang.String" key="name">1.7. Accept Others (Self)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.800000011920929" green="1.0" red="0.800000011920929"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">634175ae-7121-4151-aab1-bb1dd4389d7a</attribute>
+            <attribute class="java.lang.String" key="name">2.1. Individual &amp; Society (Society)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.0" green="0.0" red="0.0"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">0dc54e43-e6d5-40e3-8043-e300af81f163</attribute>
+            <attribute class="java.lang.String" key="name">2.2. Work &amp; Skills (Society)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.0" green="0.0" red="0.4000000059604645"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">ac385811-48c7-4192-a5bc-a2b3bb537dc8</attribute>
+            <attribute class="java.lang.String" key="name">2.3. Democratic Process (Society)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.0" green="1.0" red="0.0"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">78448260-9866-4efd-97f4-801f534ba255</attribute>
+            <attribute class="java.lang.String" key="name">2.4. Moral Code (Society)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.6000000238418579" green="0.0" red="0.6000000238418579"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">e16996bb-3c9e-4afb-b359-b9a9609efbae</attribute>
+            <attribute class="java.lang.String" key="name">3.1. Appreciation for Human Experience (World)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.20000000298023224" green="0.4000000059604645" red="0.0"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">487c47c4-97eb-4ff9-8bb7-966e6769bf0b</attribute>
+            <attribute class="java.lang.String" key="name">3.2. Appreciation for Science (World)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.4000000059604645" green="0.0" red="0.20000000298023224"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">a3772565-78fc-4275-b565-7d5d570e17cc</attribute>
+            <attribute class="java.lang.String" key="name">3.3. General Understanding of History (World)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="0.6000000238418579" green="0.4000000059604645" red="0.0"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">6c6162be-0172-40ad-994d-da381b1bcf71</attribute>
+            <attribute class="java.lang.String" key="name">1.2. Everyday (Self)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="1.0" green="0.6000000238418579" red="0.800000011920929"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+    <entityClass>
+        <attributes>
+            <attribute class="java.util.UUID" key="uuid">75cab064-c91a-40ae-8b7c-075fe158cc4e</attribute>
+            <attribute class="java.lang.String" key="name">1.1. Thinking (Self)</attribute>
+            <attribute class="com.arciem.graphics.ColorRGB" key="color">
+                <colorRGB blue="1.0" green="0.800000011920929" red="0.6000000238418579"/>
+            </attribute>
+            <attribute class="java.lang.Double" key="edgeWeight">1.0</attribute>
+            <attribute class="java.lang.Boolean" key="milestone">false</attribute>
+            <attribute class="java.lang.Boolean" key="builtIn">false</attribute>
+            <attribute class="java.lang.String" key="assignment">ResourceAssignment.fixedeffort</attribute>
+        </attributes>
+    </entityClass>
+</domain>
