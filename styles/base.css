@@ -74,6 +74,25 @@ a:active {color: #009900;}
     color: white;
 }
 
+.floatleft {
+    float: left;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.clear {
+    clear: both;
+    padding-top: 20px;
+}
+
+.box {
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    width: 240px;
+    height: 200px;
+}
+
 h1, h2, h3, h4 {
     color: #369;
 }
